@@ -1,0 +1,13 @@
+body { background-color: #c0c0c0; font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; transition: background-color 0.3s ease; }
+table { margin: 20px auto; border-collapse: separate; border-spacing: 5px 10px; }
+h2 { color: #000000; font-size: 36px; text-align: left; margin-left: 15px; }
+td { text-align: center; vertical-align: top; }
+button { background: linear-gradient(145deg, #c0c0c0, #c0c0c0); color: white; padding: 10px 20px; border: 2px solid #000000; border-radius: 5px; font-size: 16px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 6px rgba(0,0,0,0.0); transition: all 0.3s ease; outline: none; }
+button:hover { background-color: #45a049; box-shadow: 0 4px 8px rgba(0,0,0,0.3); transform: scale(1.05); }
+button:active { background-color: #388E3C; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transform: scale(0.95); }
+b { font-weight: bold; font-size: 18px; margin-top: 5px; display: block; color: #222; }
+a { color: #000000; text-decoration: none; font-weight: bold; margin: 0 10px; }
+a:hover { text-decoration: underline; }
+.footer-text { text-align: right; font-size: 14px; color: #000; padding-right: 15px; }
+.header-row td:first-child { text-align: left; }
+.header-row td:last-child { text-align: right; padding-right: 15px; }
