@@ -5,7 +5,6 @@ body {
   color: #fff;
 }
 
-/* Títol gran */
 .titol {
   color: #fff;
   font-size: 36px;
@@ -13,7 +12,7 @@ body {
   margin-left: 15px;
 }
 
-/* Trending */
+
 #trending {
   color: red;
   font-size: 32px;
@@ -22,14 +21,14 @@ body {
   letter-spacing: 2px;
 }
 
-/* Tarjeta */
+
 .card {
   background: #3b3b3b;
   padding: 10px;
   border-radius: 6px;
 }
 
-/* Imatge */
+
 .foto {
   width: 300px;
   height: 300px;
@@ -37,7 +36,7 @@ body {
   border-radius: 4px;
 }
 
-/* Botó reutilitzat del teu codi */
+
 .boto {
   background: #c0c0c0;
   color: #000;
